@@ -1,1 +1,7 @@
+# pastas
+__pycache__
+.vscode
+.venv
+
+# arquivos
 *.txt
